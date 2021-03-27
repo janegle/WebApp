@@ -89,3 +89,6 @@ If you use Pycharm: open folder final_project, open api_server.py and hit the gr
 If you use the command prompt, run "python3 api_server.py"
 
 Go to localhost:8000/web to access the web app
+
+<img src="./images/webapp0.jpg" />
+<img src="./images/webapp1.jpg" /> 
