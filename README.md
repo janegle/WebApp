@@ -1,4 +1,4 @@
-**Description**
+## Description
 
 This project aims to create a web app for a course registration system.
 
@@ -38,7 +38,7 @@ A faculty can do the following:
 
 •	Upon logging in, faculty would see a page where they can enter grades for students in his/her course
 
-**Folders and files structure**:
+## Folders and files structure
 
 1. models: containing classes Course, User, Student, StudentInterface, Faculty, FacultyInterface
 
@@ -57,17 +57,17 @@ several csv files that I used to populate the database
 
 7. web: build folder for frontend of this project from React
 
-**Instruction to create MySQL database named "registration":**
+## Instruction to create MySQL database
 
 1. Import Dump20210317.sql file
 2. Fill in user and password in the auth.py file under utilities folder according to your credentials
 
-**Instruction to create MongoDB database**
+## Instruction to create MongoDB database
 
 Install MongoDB and the following libraries: pymongo, faker
 Run mongodb_connection.py (from folder utilities) once to create a collection and populate the collection
 
-**Installation**
+## Installation
 
 You must install the databases before continuing with these steps.
 
@@ -82,7 +82,7 @@ https://fastapi.tiangolo.com/tutorial/static-files/
 
 Other packages that potentially need installation: pymysql, smtplib (with either pip or conda)
 
-**Instruction to run program**
+## Instruction to run program
 
 If you use Pycharm: open folder final_project, open api_server.py and hit the green Run button in the second last line of the file.
 
@@ -90,7 +90,7 @@ If you use the command prompt, run "python3 api_server.py"
 
 Go to localhost:8000/web to access the web app
 
-**Illustration**
+## Illustration
 
 <img src="./images/webapp0.jpg" />
 <img src="./images/webapp1.jpg" />
