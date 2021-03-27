@@ -6,23 +6,36 @@ The detailed requirements are as follows:
 
 A student can do the following:
 
-•	Log in to his/her account Read only
-•	Modify password 
+•	Log in to his/her account
+
+•	Modify password
+
 •	Upon logging in, the student would see a screen with the following information: course(s) registered for the current quarter (and the ability to switch to a different quarter), restriction (if any), and link to course registration page (where he/she can add/drop/search courses)
-•	Register for up to 3 courses per quarter 
+
+•	Register for up to 3 courses per quarter
+
 •	In the case of students overloading courses (registering for the 4th course), an automatic email will be generated for the relevant personnel for approval
-•	View courses registered for and previous courses Read only 
+
+•	View courses registered for and previous courses
+
 •	Search for course(s) by different criteria
+
 •	Add course(s)
+
 •	Drop course(s)
+
 •	View restrictions and being alerted when attempting to register for courses
-•	View timesheet of course(s) in tabular form – Course Class
+
+•	View timesheet of course(s) in tabular form
+
 •	View grades received
 
 A faculty can do the following:
 
 •	Log in to his/her account
+
 •	Modify password
+
 •	Upon logging in, faculty would see a page where they can enter grades for students in his/her course
 
 **Folders and files structure**:
