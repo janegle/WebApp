@@ -90,5 +90,9 @@ If you use the command prompt, run "python3 api_server.py"
 
 Go to localhost:8000/web to access the web app
 
+**Illustration**
+
 <img src="./images/webapp0.jpg" />
-<img src="./images/webapp1.jpg" /> 
+<img src="./images/webapp1.jpg" />
+<img src="./images/webapp2.jpg" /> 
+<img src="./images/webapp3.jpg" /> 
