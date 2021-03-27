@@ -1,0 +1,2 @@
+QUARTER = "Spring"
+YEAR_OFFERED = 2020

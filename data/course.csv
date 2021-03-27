@@ -1,0 +1,101 @@
+course_id,prefix,course_num,course_name,quarter,year_offered,day_offered,time_start,time_end,section,max_enrollment
+1,CAPP,41170,Abstract Linear Algebra,Spring,2020,Monday,0930,1030,6,80
+2,BUSN,19026,Academic and Professional Writing (The Little Red Schoolhouse),Spring,2020,Wednesday,1200,1330,3,40
+3,HIST,47063,Advanced Industrial Organization I,Spring,2020,Tuesday,1300,1500,5,50
+4,BUSN,41111,Advanced Programming,Spring,2020,Monday,1200,1330,2,40
+5,BUSN,10998,Algorithms,Spring,2018,Tuesday,1300,1500,3,80
+6,BUSN,47437,Analysis in Rn I,Spring,2020,Thursday,1200,1330,6,3
+7,CAPP,18546,Analysis in Rn II,Spring,2020,Monday,1200,1330,8,80
+8,PPHA,28384,Application Development,Spring,2020,Wednesday,1200,1330,6,50
+9,MPCS,39196,Applied Financial Technology,Spring,2019,Wednesday,0930,1030,5,60
+10,HIST,50778,Applied Investments for Public Policy,Spring,2019,Thursday,0930,1030,7,50
+11,MPCS,36034,Applied Microeconometrics,Spring,2020,Friday,1300,1500,7,40
+12,MPCS,34443,Applied Regression Analysis,Spring,2018,Wednesday,1200,1330,2,90
+13,BUSN,45636,Applied Regression Analysis,Spring,2020,Tuesday,1200,1330,3,40
+14,BUSN,32761,BA Seminar: Public Policy,Spring,2018,Tuesday,1300,1500,2,40
+15,BUSN,40287,Behavioral Economics - Development & Observational Data,Spring,2020,Tuesday,0930,1030,7,50
+16,PPHA,47394,Behavioral Economics - Development & Observational Data,Spring,2020,Tuesday,1200,1330,5,1
+17,HIST,10400,Behavioral Economics and Policy,Spring,2020,Friday,1200,1330,4,50
+18,PPHA,49739,Big Data Application Architecture,Spring,2019,Monday,0930,1030,8,30
+19,BUSN,56333,Big Data Tools in Economics,Spring,2020,Friday,1200,1330,3,60
+20,CAPP,59469,Civic Data & Technology Clinic,Spring,2020,Wednesday,0930,1030,9,70
+21,CAPP,38163,Competitive Strategy,Spring,2020,Wednesday,1300,1500,2,50
+22,BUSN,40935,Computer Science with Applications 1,Spring,2020,Monday,1200,1330,2,80
+23,HIST,20073,"Computers for Learning, Graduate",Spring,2020,Tuesday,1300,1500,3,60
+24,PPHA,56494,Computing for the Social Sciences,Spring,2020,Wednesday,1200,1330,3,5
+25,CAPP,11374,Computing for the Social Sciences,Spring,2020,Friday,0930,1030,3,100
+26,PPHA,40585,Computing for the Social Sciences,Spring,2020,Thursday,1300,1500,4,60
+27,CAPP,12309,Corporation Finance,Spring,2020,Wednesday,1200,1330,5,60
+28,PPHA,18959,Cultural Studies in Education,Spring,2020,Tuesday,1300,1500,9,70
+29,HIST,58406,Data Mining Principles,Spring,2018,Friday,1300,1500,5,60
+30,MPCS,51209,Data Science for Marketing Decision Making,Spring,2020,Friday,1300,1500,9,90
+31,BUSN,26670,Deep Learning Systems,Spring,2020,Tuesday,1200,1330,9,80
+32,MPCS,38732,Drawing,Spring,2020,Tuesday,1200,1330,8,40
+33,BUSN,42973,Economic Development and Policy,Spring,2020,Wednesday,1300,1500,2,60
+34,MPCS,15213,Energy and Environmental Economics I,Fall,2019,Tuesday,0930,1030,1,50
+35,CAPP,50035,Entrepreneurial Selling,Spring,2018,Tuesday,0930,1030,2,50
+36,HIST,13064,Epidemiology and Population Health,Winter,2019,Monday,1200,1330,4,70
+37,BUSN,32076,Ethics of Business,Spring,2018,Tuesday,1300,1500,5,70
+38,BUSN,51388,Financial Accounting,Spring,2019,Monday,1200,1330,8,80
+39,PPHA,56545,Financial Instruments,Spring,2019,Friday,1200,1330,8,30
+40,BUSN,19177,Geographic Information Science I,Fall,2020,Tuesday,1300,1500,9,100
+41,MPCS,42806,Hacking for Defense,Fall,2019,Thursday,1200,1330,9,30
+42,CAPP,28977,Health Law And Policy,Spring,2019,Tuesday,0930,1030,6,60
+43,MPCS,28645,Healthcare Analytics Lab,Spring,2018,Monday,1300,1500,3,80
+44,HIST,58413,Independent Research: Risk Assessment Instruments in Criminal Justice: First Amendment Issues,Fall,2019,Thursday,1300,1500,5,90
+45,CAPP,47822,"Inequality in Education: Theory, Policy and Practice",Winter,2018,Friday,1200,1330,5,70
+46,BUSN,29417,"Inequality in Education: Theory, Policy and Practice",Winter,2019,Tuesday,0930,1030,6,80
+47,MPCS,37273,International Commercial Policy,Spring,2019,Monday,0930,1030,3,100
+48,PPHA,45671,International Financial Policy,Fall,2018,Thursday,1300,1500,7,80
+49,CAPP,42025,Introduction to Location Analysis,Fall,2018,Wednesday,1200,1330,3,80
+50,PPHA,23335,Introduction to Science Studies,Winter,2019,Monday,0930,1030,6,90
+51,CAPP,24652,Introduction to Spatial Data Science,Fall,2018,Friday,0930,1030,6,80
+52,HIST,37866,Introduction to Spatial Data Science,Spring,2019,Thursday,0930,1030,2,80
+53,BUSN,49163,Introduction to the Korean Language I,Winter,2019,Wednesday,0930,1030,4,50
+54,CAPP,56114,Introduction to Urban Sciences,Winter,2018,Friday,0930,1030,6,30
+55,MPCS,38454,Introductory Finance,Winter,2020,Tuesday,1200,1330,5,90
+56,HIST,46185,Investments,Spring,2019,Wednesday,1300,1500,5,60
+57,CAPP,39146,Large-Scale Computing for the Social Sciences,Spring,2018,Tuesday,1300,1500,1,60
+58,HIST,39797,Leading and Managing Teams,Fall,2020,Friday,1300,1500,4,80
+59,MPCS,29367,Linear and Non-Linear Models,Winter,2020,Thursday,1200,1330,2,40
+60,BUSN,35554,Macroeconomics,Winter,2019,Wednesday,0930,1030,3,60
+61,PPHA,16177,Managing in Organizations,Fall,2019,Wednesday,0930,1030,1,100
+62,MPCS,57069,Marketing Strategy,Spring,2019,Thursday,1300,1500,1,40
+63,MPCS,45017,Mathematical Foundations of Machine Learning,Spring,2020,Wednesday,0930,1030,9,70
+64,PPHA,20976,Mathematics for Computer Science:  Discrete Mathematics,Winter,2019,Tuesday,1300,1500,3,50
+65,CAPP,52491,Mobile Software Development,Fall,2019,Thursday,1300,1500,5,50
+66,PPHA,37860,Multivariate Data Analysis via Matrix Decompositions,Fall,2018,Wednesday,0930,1030,1,60
+67,PPHA,52462,Perspectives on Computational Analysis,Winter,2020,Friday,1300,1500,2,80
+68,CAPP,52440,Poverty Inequality & Welfare St.,Fall,2019,Friday,0930,1030,6,70
+69,PPHA,36770,Price Theory I,Spring,2018,Tuesday,0930,1030,7,30
+70,MPCS,44050,Probabilistic Programming and Deep Learning,Spring,2019,Monday,1200,1330,7,90
+71,PPHA,40360,Project and Infrastructure Development and Finance,Spring,2019,Friday,1300,1500,7,50
+72,CAPP,22173,Public International Law,Spring,2020,Friday,0930,1030,6,80
+73,HIST,39594,Public Sector Economics,Winter,2020,Friday,1300,1500,5,70
+74,MPCS,22480,Python Programming,Fall,2018,Friday,1300,1500,7,60
+75,BUSN,22576,"Race, Ethnicity, and Language",Fall,2020,Friday,0930,1030,8,80
+76,HIST,50311,"Reputation, Regulation and Communications - How Media Influences Business",Winter,2019,Thursday,1300,1500,8,50
+77,PPHA,46967,Schooling and Social Inequality,Winter,2019,Monday,1200,1330,6,80
+78,CAPP,53496,Seminar on IR Theory,Winter,2020,Tuesday,0930,1030,8,90
+79,CAPP,13155,Social Theory of the City,Winter,2020,Monday,1300,1500,5,60
+80,CAPP,41829,"Statistical Insight into Marketing, Consulting, and Entrepreneurship",Spring,2020,Friday,0930,1030,7,60
+81,HIST,51877,Strategies and Processes of Negotiation,Fall,2020,Wednesday,0930,1030,1,50
+82,BUSN,57805,Taxes and Business Strategy,Winter,2018,Tuesday,1300,1500,4,70
+83,CAPP,31186,The Legal Infrastructure of Business,Fall,2020,Wednesday,0930,1030,1,90
+84,CAPP,42782,The Wealth of Nations,Spring,2020,Thursday,0930,1030,2,40
+85,MPCS,49013,Theatricality in Modern Art from 1700 to the Present,Fall,2020,Thursday,1300,1500,7,60
+86,HIST,50192,Theory of Income I,Fall,2019,Wednesday,1300,1500,8,40
+87,MPCS,19906,Time Series Analysis and Forecasting,Winter,2019,Tuesday,1300,1500,3,80
+88,CAPP,30896,Topics in Computer Security,Spring,2018,Tuesday,1300,1500,3,100
+89,HIST,47946,Topics in Human Computer Interaction,Fall,2020,Friday,1300,1500,1,80
+90,MPCS,13401,Topics in Labor Markets: Earnings and Employment,Fall,2020,Wednesday,0930,1030,3,100
+91,PPHA,43723,Topics in Software Engineering,Winter,2020,Monday,1300,1500,7,80
+92,CAPP,48050,U.S. Congress,Winter,2020,Thursday,1200,1330,9,30
+93,PPHA,43777,User Interface and User Experience Design,Winter,2019,Tuesday,1300,1500,8,80
+94,MPCS,20392,When Cultures Collide: Multiculturalism in Liberal Democracies,Winter,2019,Tuesday,1200,1330,8,80
+95,BUSN,45433,Seminar: Political Economy of Urban Development,Winter,2019,Friday,0930,1030,4,50
+96,MPCS,50166,Individual Readings and Research,Winter,2020,Tuesday,1300,1500,8,60
+97,MPCS,28912,The Social Meaning of Race,Winter,2019,Thursday,0930,1030,1,100
+98,PPHA,43414,Cultural Studies in Education,Winter,2020,Thursday,1300,1500,3,90
+99,PPHA,56672,Acceptance and Commitment Therapy,Winter,2020,Monday,1200,1330,1,50
+100,BUSN,20195,Organizing Coalitions for Change: Growing Power and Social Movements,Winter,2019,Friday,1300,1500,8,80
